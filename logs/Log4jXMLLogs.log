@@ -1,0 +1,4 @@
+[INFO ] 2022-04-22 11:47:38.243 [main] ApacheLog4j - Logger Info message
+[ERROR] 2022-04-22 11:47:38.256 [main] ApacheLog4j - Logger error message
+[WARN ] 2022-04-22 11:47:38.257 [main] ApacheLog4j - Logger warn message
+[FATAL] 2022-04-22 11:47:38.258 [main] ApacheLog4j - Logger fatal message

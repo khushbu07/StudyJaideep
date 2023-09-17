@@ -1,0 +1,17 @@
+
+
+<suite name="RetryFailedTestSuite" verbose="1">
+
+	<listeners>
+		<listener
+			class-name="selenium_RetryFailedTestCases.AnnotationTransformer" />
+	</listeners>
+
+	<test name="RetryFailedTestCases">
+		<classes>
+			<class name="selenium_RetryFailedTestCases.MyClassOne" />
+			<class name="selenium_RetryFailedTestCases.MyClassTwo" />
+		</classes>
+	</test>
+
+</suite>

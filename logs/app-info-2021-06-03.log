@@ -1,0 +1,4 @@
+[INFO ] 2021-02-26 19:03:15.515 [main] ApacheLog4j - Logger Info message
+[ERROR] 2021-02-26 19:03:15.522 [main] ApacheLog4j - Logger error message
+[WARN ] 2021-02-26 19:03:15.522 [main] ApacheLog4j - Logger warn message
+[FATAL] 2021-02-26 19:03:15.522 [main] ApacheLog4j - Logger fatal message
